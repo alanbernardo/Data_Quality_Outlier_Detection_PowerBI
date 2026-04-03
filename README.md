@@ -88,3 +88,6 @@ Aumento da confiabilidade dos dados
 Melhoria na qualidade das análises
 Base mais sólida para decisões estratégicas
 Redução de riscos analíticos
+
+<img width="1376" height="752" alt="image" src="https://github.com/user-attachments/assets/faf200a8-8819-4331-9da1-5183db730e64" />
+
